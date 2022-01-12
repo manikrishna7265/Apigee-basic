@@ -1,0 +1,9 @@
+Quota rate limit while creating Api product
+
+-> create proxy with out any quota
+
+->api product -> add quota in rate limit -> time intervel
+
+->create app and add this api product for app
+
+->post man -> url/proxy?key and value 
