@@ -1,0 +1,13 @@
+Shared flow : used to share the common policies to multiple proxies
+
+->shared flow -> create new  -> add quota and edit quota as requirements
+->create anothe proxy with target -> preflow -> responce ->add FLOW CAL policies in proxy -> add shared flow name here
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SharedFlow name="default">
+    <Step>
+        <Name>Quota-1</Name>
+    </Step>
+</SharedFlow>
+
+
