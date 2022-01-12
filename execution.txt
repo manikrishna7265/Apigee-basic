@@ -1,0 +1,9 @@
+Execution 
+
+-> go to post man -> paster host id 
+                         ->admin -> environments -> groups -> host id
+
+->paste it -> add ur proxy name in url
+
+
+
